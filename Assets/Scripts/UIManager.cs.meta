@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d14f80e88bb7ac24fbf9a97ed085dbfa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mainMenuPanel: {instanceID: 0}
+  - missionsPanel: {instanceID: 0}
+  - optionsPanel: {instanceID: 0}
+  - missionButtonPrefab: {fileID: 6156293339301471355, guid: 81996ae05853d7242a8a410b3f1fd870, type: 3}
+  - missionsContentParent: {fileID: 8408798453645026541, guid: 6890a5bb5977d7041a04d3e32a7d3635, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
